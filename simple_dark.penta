@@ -11,9 +11,9 @@ hi StatusLineSecure				  -a color: #000000 !important; background-color: #afffaf
 hi StatusLineExtended			  -a color: #000000 !important; background-color: #afffaf !important;
 
 "CmdLine settings excluding Gradient
-hi Normal						  -a color: #ffffff !important; background: #111111 !important; font-weight: bold !important;
 hi CmdLine						  -a color: inherit !important; background: inherit !important; font-weight: normal !important; padding: 3px !important;
 hi CmdCmdLine					  -a color: #ffffff !important; background: #111111 !important; font-weight: normal !important;
+hi Normal						  -a color: #ffffff !important; background: #111111 !important; font-weight: bold !important;
 hi CompDesc						  -a color: inherit; width: 50%; font-size: 8pt;
 hi CompGroup					  -a color: inherit; font-weight: bold !important;
 hi CompIcon						  -a display: none;
